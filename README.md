@@ -8,7 +8,7 @@
     <strong>Google Cybersecurity Specialization</strong><br>
     <em>Issued by:</em> Google via Coursera<br>
     <em>Date:</em> April 2025<br>
-    <a href="https://github.com/aburtz/cyberportfolio/assets/Coursera KD2JDCN3YAPS.pdf" target="_blank">View Certificate</a>
+    <a href="https://github.com/aburtz/cyberportfolio/blob/main/docs/assets/Coursera%20KD2JDCN3YAPS.pdf" target="_blank">View Certificate</a>
   </li>
 </ul>
 <h2>Education</h2>
